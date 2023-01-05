@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on a chess engine that implements novel machine learning methods.
 - 🌱 I’m currently learning rust and advanced algorithmic design.
 - 👯 I’m looking to collaborate on any and all machine learning projects.
-- ⚡ Fun fact: Mushrooms are genetically more similar to humans than they are to plants.
-
 <!--
 **J-sandler/J-sandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
