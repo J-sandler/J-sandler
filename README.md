@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- I am a second year BACS student at the University of Virginia interested in artificial intelligence and software development.
-- 🔭 I’m currently working on a chess engine that implements novel machine learning methods.
+- I am a third year BACS student at the University of Virginia interested in machine learning research.
+- 🔭 I’m currently working on a general self supervised learning system.
 - 🌱 I’m currently learning rust and advanced algorithmic design.
-- 👯 I’m looking to collaborate on any and all machine learning projects.
+- 👯 I’m looking to collaborate on interesting machine learning projects.
 <!--
 **J-sandler/J-sandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
