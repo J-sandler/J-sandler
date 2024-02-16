@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I am a third year BACS student at the University of Virginia interested in machine learning research.
-- 🔭 I’m currently working on a general self supervised learning system.
-- 🌱 I’m currently learning rust and advanced algorithmic design.
+- 🔭 I’m currently working on time series modelling and online RL.
+- 🌱 I’m currently learning about NLP and chaos theory.
 - 👯 I’m looking to collaborate on interesting machine learning projects.
 <!--
 **J-sandler/J-sandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
