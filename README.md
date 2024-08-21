@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- I am a third year BACS student at the University of Virginia interested in machine learning research.
-- 🔭 I’m currently working on time series modelling and online RL.
-- 🌱 I’m currently learning about NLP and chaos theory.
+- I am a fourth year BACS student at the University of Virginia interested in machine learning research.
+- 🔭 I’m currently working on low rank approximation and hierachical attention models.
+- 🌱 I’m currently learning about multi-modal sequence modelling.
 - 👯 I’m looking to collaborate on interesting machine learning projects.
 <!--
 **J-sandler/J-sandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
