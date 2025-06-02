@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a 4th year BACS student at the University of Virginia interested in machine learning and AI research.
+- I am a 1st year PhD student at the University of Virginia interested in machine learning and AI research.
 - 🔭 I’m currently working on low rank approximation, hierachical attention models, and speculative decoding.
 - 🌱 I’m currently learning about multi-modal sequence modelling, meta-learning and reinforcement learning.
 - 👯 I’m looking to collaborate on interesting machine learning projects.
