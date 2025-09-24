@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-- I am a 1st year PhD student at the University of Virginia interested in machine learning and AI research.
-- 🔭 I’m currently working on low rank approximation, hierachical attention models, and speculative decoding.
-- 🌱 I’m currently learning about multi-modal sequence modelling, meta-learning and reinforcement learning.
-- 👯 I’m looking to collaborate on interesting machine learning projects.
+- I am a Computer Science PhD student at the University of Virginia researching AI.
+- 🔭 I’m currently working on:
+    -  Fast-inference in transformers with discrete diffusion models and speculative decoding.
+    -  Constrained LLM Reinforcment Learning and AI reasoning.
+    -  Continual Learning in LLMs
+      
+- I am currently submitting papers to:
+    - ICLR 2026
+    - ACL 2026
 <!--
 **J-sandler/J-sandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
