@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 - I am a Computer Science PhD student at the University of Virginia researching AI.
 - 🔭 I’m currently working on:
@@ -8,7 +8,7 @@
       
 - I am currently submitting papers to:
     - ICLR 2026
-    - ACL 2026
+    - ML SyS 2026
 <!--
 **J-sandler/J-sandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
